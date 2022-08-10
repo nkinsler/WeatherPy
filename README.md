@@ -16,12 +16,19 @@ Use Google Directions API to create a travel itinerary that shows route between 
 ## Results
 ### Weather Data
 [Weather_Database](https://github.com/nkinsler/WeatherPy/blob/main/Weather_Database/Weather_Database.ipynb)
+
 [WeatherPY_Database.csv](https://github.com/nkinsler/WeatherPy/blob/main/Weather_Database/WeatherPY_Database.csv)
+
 ### Customer Tavel Destinations Map
 [Vacation_Search](https://github.com/nkinsler/WeatherPy/blob/main/Vacation_Search/Vacation_Search.ipynb)
+
 [WeatherPY_Vacation.csv](https://github.com/nkinsler/WeatherPy/blob/main/Vacation_Search/WeatherPy_vacation.csv)
+
 ![WeatherPY_vacation_map.png](https://github.com/nkinsler/WeatherPy/blob/main/Vacation_Search/WeatherPy_vacation_map.png)!
+
 ### Travel Itinerary Map
 [Vacation_Itinerary](https://github.com/nkinsler/WeatherPy/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+
 ![WeatherPY_travel_map.png](https://github.com/nkinsler/WeatherPy/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)!
+
 ![WeatherPY_travel_map_markers.png](https://github.com/nkinsler/WeatherPy/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)!
