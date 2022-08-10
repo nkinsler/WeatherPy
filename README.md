@@ -3,15 +3,15 @@
 ## Purpose
 1. Retrieve weather data
 
-Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform API call with OpenWeatherMap.
+   Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform API call with OpenWeatherMap.
 
 2. Create a customer travel destinations map
 
-Use input statements to retreve customer weather preferences (min 60, max 95), then identify travel destinations and nearby hotels.
+  Use input statements to retreve customer weather preferences (min 60, max 95), then identify travel destinations and nearby hotels.
 
 3. Create a travel itinerary map
 
-Use Google Directions API to create a travel itinerary that shows route between four cities.
+  Use Google Directions API to create a travel itinerary that shows route between four cities.
 
 ## Results
 ### Weather Data
